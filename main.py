@@ -7,6 +7,7 @@ dana=Person("dana",0,"tel aviv",None)
 
 yoav.add_child(dana)
 yoav.print_children_names()
+print("Node<>")
 
 
 
